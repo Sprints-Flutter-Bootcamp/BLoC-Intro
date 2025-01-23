@@ -65,14 +65,6 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ),
       ),
-      // floatingActionButton: FloatingActionButton(
-      //   onPressed: () {
-      //     // Dispatch IncrementCounter event to CounterBloc
-      //     context.read<CounterBloc>().add(IncrementCounter());
-      //   },
-      //   tooltip: 'Increment',
-      //   child: const Icon(Icons.add),
-      // ),
     );
   }
 }
