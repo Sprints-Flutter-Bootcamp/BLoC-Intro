@@ -7,4 +7,11 @@ abstract class ThemeState extends Equatable {
   List<Object> get props => [];
 }
 
-class ThemeInitial extends ThemeState {}
+class ThemeSet extends ThemeState {
+  final ThemeData themeData;
+
+  const ThemeSet({required this.themeData});
+
+  @override
+  List<Object> get props => [themeData];
+}
