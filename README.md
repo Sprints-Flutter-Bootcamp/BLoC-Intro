@@ -28,3 +28,18 @@ This application demonstrates the use of **BLoC (Business Logic Component)** for
 
 ### Dark Theme  
 <img src="r2-image.png" alt="Dark Theme" height="400">
+
+<br>
+<br>
+
+# Cubit Sample (new)
+
+I have added a cubits folder that contains cubit folders, and added a new page named counter_page_cubit that uses cubit instead of the bloc we made before
+
+## Example Screenshots:
+
+### Light Theme  
+<img src="r11-image.png" alt="Light Theme" height="400">
+
+### Dark Theme  
+<img src="r22-image.png" alt="Dark Theme" height="400">
